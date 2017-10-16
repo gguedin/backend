@@ -1,2 +1,3 @@
 # backend
-# up depot principal
+# up depot principal 
+# update core
